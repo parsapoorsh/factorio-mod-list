@@ -1,0 +1,51 @@
+[submodule "Aircraft-Space-Age"]
+	path = Aircraft-Space-Age
+	url = https://github.com/nicholasgower/Aircraft-Space-Age
+[submodule "AutoDeconstruct"]
+	path = AutoDeconstruct
+	url = https://github.com/softmix/AutoDeconstruct
+[submodule "automatic-underground-pipe-connectors"]
+	path = automatic-underground-pipe-connectors
+	url = https://github.com/sparr/factorio-mod-automatic-underground-pipe-connectors
+[submodule "BottleneckLite"]
+	path = BottleneckLite
+	url = https://codeberg.org/raiguard/BottleneckLite
+[submodule "ChangeInserterDropLane"]
+	path = ChangeInserterDropLane
+	url = https://codeberg.org/raiguard/ChangeInserterDropLane
+[submodule "ch-concentrated-solar"]
+	path = ch-concentrated-solar
+	url = https://github.com/parsapoorsh/factorio-ch-concentrated-solar
+[submodule "DiscoScience"]
+	path = DiscoScience
+	url = https://github.com/danielbrauer/DiscoScience
+[submodule "Factorio-AircraftRealism"]
+	path = Factorio-AircraftRealism
+	url = https://github.com/jaihysc/Factorio-AircraftRealism
+[submodule "flib"]
+	path = flib
+	url = https://codeberg.org/raiguard/flib
+[submodule "FluidMustFlow"]
+	path = FluidMustFlow
+	url = https://codeberg.org/raiguard/FluidMustFlow
+[submodule "Honk"]
+	path = Honk
+	url = https://github.com/robot256/robot256_Honk
+[submodule "Milestones"]
+	path = Milestones
+	url = https://github.com/Wiwiweb/FactorioMilestones
+[submodule "ModuleInserterSimplified"]
+	path = ModuleInserterSimplified
+	url = https://github.com/tburrows13/ModuleInserterSimplified
+[submodule "snouz-big-solar-panel"]
+	path = snouz-big-solar-panel
+	url = https://github.com/snouz/snouz-big-solar-panel
+[submodule "solar-productivity"]
+	path = solar-productivity
+	url = https://github.com/RedRafe/solar-productivity
+[submodule "squeak-through-2"]
+	path = squeak-through-2
+	url = https://github.com/CodeGreen0386/squeak-through-2
+[submodule "WideChests"]
+	path = WideChests
+	url = https://github.com/Atria1234/WideChests
