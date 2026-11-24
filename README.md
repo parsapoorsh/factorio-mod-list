@@ -20,6 +20,7 @@ git submodule update --init --recursive
 - [`ch-concentrated-solar`](https://github.com/parsapoorsh/factorio-ch-concentrated-solar) @ `9315ea5` (master)
 - [`DiscoScience`](https://github.com/danielbrauer/DiscoScience) @ `f1a1676` (master)
 - [`Factorio-AircraftRealism`](https://github.com/jaihysc/Factorio-AircraftRealism) @ `8396a42` (master)
+- [`factorio-EditMapSettings`](https://github.com/parsapoorsh/factorio-EditMapSettings) @ `7c3cebc` (main)
 - [`flib`](https://codeberg.org/raiguard/flib) @ `88a5e3b` (trunk)
 - [`FluidMustFlow`](https://codeberg.org/raiguard/FluidMustFlow) @ `6dda607` (trunk)
 - [`Honk`](https://github.com/robot256/robot256_Honk) @ `b9e49a7` (master)
