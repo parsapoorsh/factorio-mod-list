@@ -49,3 +49,6 @@
 [submodule "WideChests"]
 	path = WideChests
 	url = https://github.com/Atria1234/WideChests
+[submodule "ChangeMapSettings-morsk"]
+	path = ChangeMapSettings-morsk
+	url = https://github.com/morsk/ChangeMapSettings-morsk/
